@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: cf3a3d30d6d9a0047aa873cf2a30e29b
+timeCreated: 1454768465
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bras_d
+    100004: bras_g
+    100006: cheuveux
+    100008: cheveux
+    100010: cou
+    100012: coude_d
+    100014: coude_g
+    100016: ctrl_body
+    100018: ctrl_body1
+    100020: ctrl_bras_d
+    100022: ctrl_bras_d1
+    100024: ctrl_bras_d2
+    100026: ctrl_bras_g
+    100028: ctrl_bras_g1
+    100030: ctrl_bras_g2
+    100032: ctrl_cheveux
+    100034: ctrl_gen
+    100036: ctrl_head
+    100038: ctrl_head 1
+    100040: ctrl_jambe_d
+    100042: ctrl_jambe_g
+    100044: ctrl_nez
+    100046: ctrl_pied
+    100048: ctrl_pied 1
+    100050: ctrl_root
+    100052: end_d
+    100054: end_d 1
+    100056: end_g
+    100058: end_g 1
+    100060: end_head
+    100062: genou_d
+    100064: genou_g
+    100066: group10
+    100068: group11
+    100070: group3
+    100072: group4
+    100074: group6
+    100076: group7
+    100078: head
+    100080: ikHandle1
+    100082: ikHandle2
+    100084: jambe_d
+    100086: jambe_g
+    100088: joint2
+    100090: joint5
+    100092: joint6
+    100094: joint7
+    100096: mesh_group
+    100098: moustach
+    100100: //RootNode
+    100102: nose
+    100104: oeild
+    100106: oeilg
+    100108: oreille
+    100110: oreille1
+    100112: orig_bras_d
+    100114: orig_bras_g
+    100116: orig_cheuveux
+    100118: orig_jambe_d
+    100120: orig_jambe_g
+    100122: orig_machoire
+    100124: orig_nez
+    100126: orig_root
+    100128: patte_basd
+    100130: patte_basg
+    100132: patteav_d
+    100134: patteav_g
+    100136: pied_d
+    100138: pied_g
+    100140: poignet_d
+    100142: poignet_g
+    100144: root
+    100146: tete
+    100148: transform7
+    100150: transform8
+    100152: transform9
+    400000: body
+    400002: bras_d
+    400004: bras_g
+    400006: cheuveux
+    400008: cheveux
+    400010: cou
+    400012: coude_d
+    400014: coude_g
+    400016: ctrl_body
+    400018: ctrl_body1
+    400020: ctrl_bras_d
+    400022: ctrl_bras_d1
+    400024: ctrl_bras_d2
+    400026: ctrl_bras_g
+    400028: ctrl_bras_g1
+    400030: ctrl_bras_g2
+    400032: ctrl_cheveux
+    400034: ctrl_gen
+    400036: ctrl_head
+    400038: ctrl_head 1
+    400040: ctrl_jambe_d
+    400042: ctrl_jambe_g
+    400044: ctrl_nez
+    400046: ctrl_pied
+    400048: ctrl_pied 1
+    400050: ctrl_root
+    400052: end_d
+    400054: end_d 1
+    400056: end_g
+    400058: end_g 1
+    400060: end_head
+    400062: genou_d
+    400064: genou_g
+    400066: group10
+    400068: group11
+    400070: group3
+    400072: group4
+    400074: group6
+    400076: group7
+    400078: head
+    400080: ikHandle1
+    400082: ikHandle2
+    400084: jambe_d
+    400086: jambe_g
+    400088: joint2
+    400090: joint5
+    400092: joint6
+    400094: joint7
+    400096: mesh_group
+    400098: moustach
+    400100: //RootNode
+    400102: nose
+    400104: oeild
+    400106: oeilg
+    400108: oreille
+    400110: oreille1
+    400112: orig_bras_d
+    400114: orig_bras_g
+    400116: orig_cheuveux
+    400118: orig_jambe_d
+    400120: orig_jambe_g
+    400122: orig_machoire
+    400124: orig_nez
+    400126: orig_root
+    400128: patte_basd
+    400130: patte_basg
+    400132: patteav_d
+    400134: patteav_g
+    400136: pied_d
+    400138: pied_g
+    400140: poignet_d
+    400142: poignet_g
+    400144: root
+    400146: tete
+    400148: transform7
+    400150: transform8
+    400152: transform9
+    4300000: moustach
+    4300002: body
+    4300004: head
+    4300006: oreille
+    4300008: cheveux
+    4300010: oreille1
+    4300012: patteav_g
+    4300014: patteav_d
+    4300016: patte_basd
+    4300018: patte_basg
+    4300020: oeild
+    4300022: oeilg
+    7400000: cours1
+    9500000: //RootNode
+    13700000: body
+    13700002: cheveux
+    13700004: head
+    13700006: moustach
+    13700008: oeild
+    13700010: oeilg
+    13700012: oreille
+    13700014: oreille1
+    13700016: patte_basd
+    13700018: patte_basg
+    13700020: patteav_d
+    13700022: patteav_g
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cours1
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ctrl_gen
+        weight: 1
+      - path: ctrl_gen/orig_jambe_d
+        weight: 1
+      - path: ctrl_gen/orig_jambe_d/ctrl_jambe_d
+        weight: 1
+      - path: ctrl_gen/orig_jambe_d/ctrl_jambe_d/ctrl_pied
+        weight: 1
+      - path: ctrl_gen/orig_jambe_d/ctrl_jambe_d/ikHandle2
+        weight: 1
+      - path: ctrl_gen/orig_jambe_g
+        weight: 1
+      - path: ctrl_gen/orig_jambe_g/ctrl_jambe_g
+        weight: 1
+      - path: ctrl_gen/orig_jambe_g/ctrl_jambe_g/ctrl_pied 1
+        weight: 1
+      - path: ctrl_gen/orig_jambe_g/ctrl_jambe_g/ikHandle1
+        weight: 1
+      - path: ctrl_gen/orig_root
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/ctrl_head
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/ctrl_head/ctrl_head 1
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/ctrl_head/ctrl_head 1/orig_cheuveux
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/ctrl_head/ctrl_head 1/orig_cheuveux/ctrl_cheveux
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/ctrl_head/ctrl_head 1/orig_machoire
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/ctrl_head/ctrl_head 1/orig_nez
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/ctrl_head/ctrl_head 1/orig_nez/ctrl_nez
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/group10
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/group10/ctrl_body
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/group10/ctrl_body/group11
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/group10/ctrl_body/group11/ctrl_body1
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_d
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_d/ctrl_bras_d
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_d/ctrl_bras_d/group6
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_d/ctrl_bras_d/group6/ctrl_bras_d1
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_d/ctrl_bras_d/group6/ctrl_bras_d1/group7
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_d/ctrl_bras_d/group6/ctrl_bras_d1/group7/ctrl_bras_d2
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_g
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_g/ctrl_bras_g
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_g/ctrl_bras_g/group3
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_g/ctrl_bras_g/group3/ctrl_bras_g1
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_g/ctrl_bras_g/group3/ctrl_bras_g1/group4
+        weight: 1
+      - path: ctrl_gen/orig_root/ctrl_root/orig_bras_g/ctrl_bras_g/group3/ctrl_bras_g1/group4/ctrl_bras_g2
+        weight: 1
+      - path: ctrl_gen/root
+        weight: 1
+      - path: ctrl_gen/root/bras_d
+        weight: 1
+      - path: ctrl_gen/root/bras_d/coude_d
+        weight: 1
+      - path: ctrl_gen/root/bras_d/coude_d/poignet_d
+        weight: 1
+      - path: ctrl_gen/root/bras_d/coude_d/poignet_d/end_d
+        weight: 1
+      - path: ctrl_gen/root/bras_g
+        weight: 1
+      - path: ctrl_gen/root/bras_g/coude_g
+        weight: 1
+      - path: ctrl_gen/root/bras_g/coude_g/poignet_g
+        weight: 1
+      - path: ctrl_gen/root/bras_g/coude_g/poignet_g/end_g
+        weight: 1
+      - path: ctrl_gen/root/cou
+        weight: 1
+      - path: ctrl_gen/root/cou/tete
+        weight: 1
+      - path: ctrl_gen/root/cou/tete/cheuveux
+        weight: 1
+      - path: ctrl_gen/root/cou/tete/cheuveux/end_head
+        weight: 1
+      - path: ctrl_gen/root/cou/tete/nose
+        weight: 1
+      - path: ctrl_gen/root/cou/tete/nose/joint2
+        weight: 1
+      - path: ctrl_gen/root/jambe_d
+        weight: 1
+      - path: ctrl_gen/root/jambe_d/genou_d
+        weight: 1
+      - path: ctrl_gen/root/jambe_d/genou_d/pied_d
+        weight: 1
+      - path: ctrl_gen/root/jambe_d/genou_d/pied_d/end_d 1
+        weight: 1
+      - path: ctrl_gen/root/jambe_g
+        weight: 1
+      - path: ctrl_gen/root/jambe_g/genou_g
+        weight: 1
+      - path: ctrl_gen/root/jambe_g/genou_g/pied_g
+        weight: 1
+      - path: ctrl_gen/root/jambe_g/genou_g/pied_g/end_g 1
+        weight: 1
+      - path: ctrl_gen/root/transform7
+        weight: 1
+      - path: ctrl_gen/root/transform7/joint5
+        weight: 1
+      - path: ctrl_gen/root/transform7/joint5/joint6
+        weight: 1
+      - path: ctrl_gen/root/transform7/joint5/joint6/joint7
+        weight: 1
+      - path: ctrl_gen/root/transform7/joint5/joint6/transform8
+        weight: 1
+      - path: ctrl_gen/root/transform7/joint5/joint6/transform9
+        weight: 1
+      - path: mesh_group
+        weight: 1
+      - path: mesh_group/body
+        weight: 1
+      - path: mesh_group/cheveux
+        weight: 1
+      - path: mesh_group/head
+        weight: 1
+      - path: mesh_group/moustach
+        weight: 1
+      - path: mesh_group/oeild
+        weight: 1
+      - path: mesh_group/oeilg
+        weight: 1
+      - path: mesh_group/oreille
+        weight: 1
+      - path: mesh_group/oreille1
+        weight: 1
+      - path: mesh_group/patte_basd
+        weight: 1
+      - path: mesh_group/patte_basg
+        weight: 1
+      - path: mesh_group/patteav_d
+        weight: 1
+      - path: mesh_group/patteav_g
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
